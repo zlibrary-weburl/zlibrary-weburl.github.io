@@ -9,5 +9,5 @@
 <p>zlibrary最新官网地址：<a href="https://zh.z-library.sk/">https://zh.z-library.sk</a></p>
 <p>zlibrary最新官网地址：<a href="https://zh.z-lib.gs/">https://zh.z-lib.gs/</a></p>
 <h3><strong>Z-Library有哪些假站、仿冒的钓鱼网站</strong></h3>
-<p>zlibrary.to、zlibrary.st、z-lib.is、http://z-lib.io、z-lib.id</p>
+<p>zlibrary.to、zlibrary.st、z-lib.is、z-lib.io、z-lib.id</p>
 <p>这几个网站都是假网站，千万要小心，这些网站可能会窃取您的个人信息并危及您的安权。另外z-library官网也提醒大家，最近一些人收到了一些假冒的“ Z-Library premium ”电子邮件，正在以 Zlibrary 官网的名义传播，内容是：关于获得终身高级会员资格。 Z-Library 是没有会员制的，一切让大家充值的都是骗子，千万谨记！</p>
